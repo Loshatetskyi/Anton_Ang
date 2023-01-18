@@ -1,0 +1,12 @@
+li {
+    margin: 10px 5px;
+}
+img {
+    margin: 2%;
+    width: 350px;
+    float: right;
+}
+.wrap {
+    width: 70%;
+    float: left;
+}
